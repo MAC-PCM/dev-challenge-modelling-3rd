@@ -1,0 +1,8 @@
+#ifndef RTW_HEADER_linsearch_u32d_h_
+#define RTW_HEADER_linsearch_u32d_h_
+#include "rtwtypes.h"
+#include "multiword_types.h"
+
+extern uint32_T linsearch_u32d(real_T u, const real_T bp[], uint32_T startIndex);
+
+#endif
